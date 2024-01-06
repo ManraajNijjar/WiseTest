@@ -1,0 +1,26 @@
+[gd_scene format=3 uid="uid://c4gxl6mjmb3ce"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="AkBank" type="AkBank" parent="."]
+bank = {
+"id": 1355168291,
+"name": "Init"
+}
+load_on = 1
+
+[node name="AkBank2" type="AkBank" parent="AkBank"]
+bank = {
+"id": 4072029455,
+"name": "New_SoundBank"
+}
+load_on = 1
+
+[node name="AkEvent2D" type="AkEvent2D" parent="AkBank/AkBank2"]
+event = {
+"id": 688419350,
+"name": "ExampleSFX"
+}
+trigger_on = 1
+
+[node name="AkListener2D" type="AkListener2D" parent="."]

@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	688419350	ExampleSFX			\Default Work Unit\ExampleSFX	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	341618251	New Sound SFX	C:\Users\TheWo\Documents\WwiseProjects\test\.cache\Windows\SFX\sfxpack_4_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Example SFX\New Sound SFX		46944
+
